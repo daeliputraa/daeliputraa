@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Slamat Karunia Putra Daeli, I'm a Web Developer. Check <a href="https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Slamat Karunia Putra Daeli, I'm a Web Developer. Check <a href="https://www.linkedin.com/in/slamatkaruniaputra/">ℹ️</a> For More Information.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/buala_leonardo)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bualaleo)
